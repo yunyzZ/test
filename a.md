@@ -1,2 +1,2 @@
 zhangzy is working here.
-zhangzy is studying here.
+zhangzy and his colleague are studying here.
